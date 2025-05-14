@@ -3,8 +3,6 @@ This project analyzes structured customer data for predictive modeling and class
 The goal is to preprocess the data, handle missing values, train classification models, and visualize results — including a 3D PCA representation of feature space.
 
 📁 Dataset
-Filename: covid_old.csv
-
 Features include (simulated example):
 
 Age
