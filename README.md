@@ -1,4 +1,6 @@
 📊 Project Overview
+
+
 This project analyzes structured customer data for predictive modeling and classification, inspired by the American Express Data Challenge. The dataset used is covid_old.csv, which contains anonymized patient features and a target classification (e.g., severity or disease presence).
 
 The goal is to preprocess the data, handle missing values, train classification models, and visualize results — including a 3D PCA representation of feature space.
